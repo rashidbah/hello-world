@@ -38,12 +38,18 @@
 </div>
 
 <style>
+  body {
+    background-color: #f2f2f2; /* Light grey background for the entire page */
+  }
+
   .container {
     max-width: 500px;
     margin: auto;
     padding: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
+    background-color: #ffffff; /* White background for the form */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
   }
 
   .form-group {
@@ -64,7 +70,7 @@
   }
 
   .registerbtn {
-    background-color: #4CAF50;
+    background-color: #4CAF50; /* Green background for the button */
     color: white;
     padding: 10px 15px;
     border: none;
@@ -73,7 +79,7 @@
   }
 
   .registerbtn:hover {
-    background-color: #45a049;
+    background-color: #45a049; /* Darker green on hover */
   }
 
   .author-info {
@@ -81,5 +87,8 @@
     margin-top: 20px;
     font-size: 0.9em;
     color: #555;
+    background-color: #e9ecef; /* Light background for author info */
+    padding: 10px;
+    border-radius: 5px;
   }
 </style>
