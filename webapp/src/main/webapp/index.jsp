@@ -33,7 +33,7 @@
 <div class="author-info">
   <hr>
   <p>This site is developed and maintained by <strong>Rashid Ahmed</strong>.</p>
-  <p>Contact: <a href="mailto:rashidkahmed@example.com">rashid@example.com</a></p>
+  <p>Contact: <a href="mailto:rashidkahmed@example.com">rashidkahmed@example.com</a></p>
   <p>© 2025 Rashid Ahmed. All rights reserved.</p>
 </div>
 
