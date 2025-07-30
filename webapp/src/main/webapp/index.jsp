@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <p>Please fill in this form to create an account in Iseha Dev Project.</p>
+    <p>Please fill in this form to create an account in DevOps Project.</p>
     <hr>
 
     <div class="form-group">
@@ -33,7 +33,7 @@
 <div class="author-info">
   <hr>
   <p>This site is developed and maintained by <strong>Rashid Ahmed</strong>.</p>
-  <p>Contact: <a href="mailto:rashidkahmed@example.com">raahmed@indracompany.com</a></p>
+  <p>Contact: <a href="mailto:rashidkahmed@example.com">rashidkahmed@gmail.com</a></p>
   <p>© 2025 Rashid Ahmed. All rights reserved.</p>
 </div>
 
