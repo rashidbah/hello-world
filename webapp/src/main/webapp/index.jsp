@@ -5,12 +5,12 @@
     <hr>
 
     <div class="form-group">
-      <label for="email"><b>Email</b></label>
+      <label for="email"><b>Enter Email</b></label 
       <input type="text" placeholder="Enter Email" name="email" id="email" required>
     </div>
 
     <div class="form-group">
-      <label for="psw"><b>Password</b></label>
+      <label for="psw"><b>Enter Password</b></label>
       <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     </div>
 
