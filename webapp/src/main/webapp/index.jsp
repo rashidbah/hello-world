@@ -5,7 +5,7 @@
     <hr>
 
     <div class="form-group">
-      <label for="email"><b>Enter your Email</b></label 
+      <label for="email"><b>Enter your Email</b></label >
       <input type="text" placeholder="Enter Email" name="email" id="email" required>
     </div>
 
