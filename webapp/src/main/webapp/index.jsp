@@ -15,7 +15,7 @@
     </div>
 
     <div class="form-group">
-      <label for="psw-repeat"><b>Enter your Password again</b></label>
+      <label for="psw-repeat"><b>Enter your Password aaagain</b></label>
       <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     </div>
 
