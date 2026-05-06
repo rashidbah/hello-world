@@ -15,7 +15,7 @@
     </div>
 
     <div class="form-group">
-      <label for="psw-repeat"><b>Repeat Password</b></label>
+      <label for="psw-repeat"><b>Enter your Password again</b></label>
       <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     </div>
 
@@ -34,7 +34,7 @@
   <hr>
   <p>This site is developed and maintained by <strong>Rashid Ahmed</strong>.</p>
   <p>Contact: <a href="mailto:rashidkahmed@example.com">rashidkahmed@gmail.com</a></p>
-  <p>© 2025 Rashid Ahmed. All rights reserved.</p>
+  <p>Â© 2025 Rashid Ahmed. All rights reserved.</p>
 </div>
 
 <style>
